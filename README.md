@@ -9,7 +9,7 @@ Nos llamaron para mantener el sistema del minimercado Cilindro, un mercado famil
 
 El modelo de datos del sistema es el siguiente:
 
-<img width="658" height="636" alt="image" src="https://github.com/user-attachments/assets/690b1338-df2b-4f98-8843-f68146663343" />
+<img width="658" height="636" alt="image" src="https://drive.google.com/uc?export=view&id=1emfOmb0-Rr6vXZMsoHXI_UkkE56B8C_j" />
 
 
 El sistema muestra en una pantalla el monto total recaudado en cada mes desde que se instaló el sistema hasta la fecha. Para eso, ejecuta la siguiente consulta cada vez que alguien quiere acceder a los resultados:
@@ -62,7 +62,7 @@ El sistema tendrá una arquitectura distribuida. Nuestro equipo se encargará de
 
 Para una primera versión, se plantea el siguiente modelo de datos:
 
-<img width="855" height="742" alt="image" src="https://github.com/user-attachments/assets/28b961a5-9b87-4cd4-be5c-cc0d3ea4e764" />
+<img width="855" height="742" alt="image" src="https://drive.google.com/uc?export=view&id=108gakvT-KOew9b-HT4Y3jPVS-xddNETo" />
 
 Como estamos en una primera versión se tomaron las siguientes **decisiones** con el fin de no complejizar el modelo en esta etapa y sacar algo funcional al mercado rápidamente:
 
