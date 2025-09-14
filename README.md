@@ -1,6 +1,7 @@
 - Resolver de forma grupal cada ejercicio.
 - Escribir las soluciones en 2 issues separados; cuyos títulos deberán nomenclarse como “2025-MA-GRUPO-XX Ejercicio X”
 - Escribir en el issue los nombres de los participantes
+- La resolución debe hacerse únicamente modificando el modelo de datos existente, pudiendo agregarse atributos, desnormalizar campos o crear nuevas tablas. Luego, si es necesario, aclarar los cambios a nivel de arquitectura.
 
 
 # Ejercicio 1 
